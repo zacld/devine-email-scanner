@@ -1,0 +1,13 @@
+# Ignore node modules and build files
+node_modules/
+.next/
+__pycache__/
+*.pyc
+
+# Ignore env and Streamlit config
+.env
+.streamlit/
+
+# Ignore editor files
+.vscode/
+.DS_Store
